@@ -12,7 +12,7 @@ The purpose of the analysis was to explore differences in PyBer use by city type
 The differences in ride-sharing data among different city types shows that as population density decreases (i.e. from Urban to Rural city type), total fares decreases while average fare per ride increases. This is demonstrated in the below table. 
 
 <p align="center">
-  <img src = "Analysis/SummaryDF.png" width=250>
+  <img src = "Analysis/SummaryDF.png" width=500>
 </p>
 
 ### Differences Over Time
@@ -20,7 +20,7 @@ The differences in ride-sharing data among different city types shows that as po
 Of note, the trends in ride share use by month, show relatively consistent overall trends, as demonstrated in the Total Fare by City Type graph below. There is more variability in the urban data, however, all 3 city types show fluctuting trends over time.
 
 <p align="center">
-  <img src = "Analysis/PyBer_fare_summary.png" width=250>
+  <img src = "Analysis/PyBer_fare_summary.png" width=500>
 </p>
 
 ## Summary
